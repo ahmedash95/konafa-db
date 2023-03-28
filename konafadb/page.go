@@ -1,4 +1,4 @@
-package dumpdb
+package konafadb
 
 type pgid uint64
 

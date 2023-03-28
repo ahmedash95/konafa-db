@@ -1,4 +1,4 @@
-package dumpdb
+package konafadb
 
 import (
 	"encoding/binary"

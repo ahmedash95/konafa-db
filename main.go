@@ -1,12 +1,12 @@
 package main
 
 import (
-	"ahmedash95/dumb-db/dumpdb"
+	"ahmedash95/konafa-db/konafadb"
 	"fmt"
 )
 
 func main() {
-	db, err := dumpdb.New("database.db")
+	db, err := konafadb.New("database.db")
 
 	if err != nil {
 		panic(err)

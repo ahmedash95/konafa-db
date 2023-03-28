@@ -1,3 +1,3 @@
-module ahmedash95/dumb-db
+module ahmedash95/konafa-db
 
 go 1.19

@@ -1,4 +1,4 @@
-package dumpdb
+package konafadb
 
 func ensureCollection(db *DB, name string) error {
 	// check if the collection exists
